@@ -1,0 +1,1 @@
+var EQ_graphHTMLText = '<div class="col-md-3" style=" margin: 50px" > <a  href="../../../graph_htmls/new_graph.html"><img src="../../../graph_htmls/new_graph.png" title= " new_graph " style="border-style:none"/><br>new_graph</a></div>';
